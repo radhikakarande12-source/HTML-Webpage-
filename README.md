@@ -89,7 +89,7 @@ This project demonstrates how HTML5 can be used to create a structured webpage u
 
 Project: HTML Webpage
 Technology: HTML5
-Course: BSc Computer Science
+Course: BCS(Bechlor of Computer Science)
 Author: Radhika Karande
 
 
