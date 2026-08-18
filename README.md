@@ -1,118 +1,96 @@
 # HTML-Webpage-
-1. Project Title
+# HTML Webpage
 
-Basic HTML Webpage
+## 1. Introduction
 
-2. Description
+This project is a basic webpage created using **HTML5 (HyperText Markup Language)**.  
+It demonstrates the use of HTML tags and attributes to structure and present webpage content.
 
-This project is a simple webpage created using HTML (HyperText Markup Language).
+## 2. Objectives
 
-The webpage demonstrates the use of different HTML tags and attributes to create and organize content. It uses only HTML, without CSS or JavaScript.
+- To understand the basic structure of HTML.
+- To learn and use different HTML tags.
+- To understand HTML attributes.
+- To create headings, paragraphs, links, images, lists, and tables.
+- To understand and use HTML entities.
 
-3. Technologies Used
-HTML5
-No CSS
-No JavaScript
-4. HTML Tags Used
+## 3. Technology Used
 
-The webpage demonstrates commonly used HTML tags such as:
+- **HTML5**
+- CSS: Not Used
+- JavaScript: Not Used
 
-Tag	Purpose
-<html>	Defines the HTML document
-<head>	Contains information about the webpage
-<title>	Defines the webpage title
-<body>	Contains visible webpage content
-<h1>	Main heading
-<h2>	Subheading
-<p>	Defines a paragraph
-<br>	Inserts a line break
-<hr>	Creates a horizontal line
-<b>	Makes text bold
-<i>	Makes text italic
-<u>	Underlines text
-<strong>	Indicates important text
-<em>	Gives emphasis to text
-<mark>	Highlights text
-<small>	Displays smaller text
-<sub>	Creates subscript text
-<sup>	Creates superscript text
-<a>	Creates a hyperlink
-<img>	Displays an image
-<ol>	Creates an ordered list
-<ul>	Creates an unordered list
-<li>	Defines a list item
-<table>	Creates a table
-<tr>	Defines a table row
-<th>	Defines a table heading
-<td>	Defines table data
-5. HTML Attributes Used
+## 4. HTML Tags Used
 
-Attributes provide additional information about HTML elements.
+| Tag | Purpose |
+|-----|---------|
+| `<html>` | Defines the HTML document |
+| `<head>` | Contains document information |
+| `<title>` | Defines the webpage title |
+| `<body>` | Contains visible content |
+| `<h1>`, `<h2>` | Headings |
+| `<p>` | Paragraph |
+| `<b>`, `<i>`, `<u>` | Text formatting |
+| `<strong>`, `<em>`, `<mark>` | Text emphasis |
+| `<a>` | Hyperlink |
+| `<img>` | Image |
+| `<ol>`, `<ul>`, `<li>` | Lists |
+| `<table>`, `<tr>`, `<th>`, `<td>` | Tables |
 
-Examples:
+## 5. HTML Attributes Used
 
-Attribute	Used With	Purpose
-id	Most HTML elements	Gives a unique identification
-class	Most HTML elements	Groups elements
-href	<a>	Specifies the link destination
-src	<img>	Specifies the image location
-alt	<img>	Provides alternative text for an image
-width	<img>	Specifies image width
-height	<img>	Specifies image height
-title	Many elements	Displays additional information
-target	<a>	Specifies where to open a link
-6. Important Concepts Demonstrated
+| Attribute | Purpose |
+|-----------|---------|
+| `id` | Gives an element a unique identity |
+| `class` | Groups elements |
+| `href` | Specifies link destination |
+| `src` | Specifies image source |
+| `alt` | Provides alternative text |
+| `width` | Specifies width |
+| `height` | Specifies height |
+| `title` | Provides additional information |
+| `target` | Specifies where a link opens |
 
-This webpage demonstrates:
+## 6. HTML Entities
 
-Basic HTML document structure
-Headings and paragraphs
+HTML entities are used to display special or reserved characters.
+
+| Entity | Output |
+|--------|--------|
+| `&lt;` | `<` |
+| `&gt;` | `>` |
+| `&amp;` | `&` |
+| `&copy;` | © |
+
+Example:
+
+```html
+<p>&lt;b&gt; represents the bold tag.</p>
+7. Features
+Structured HTML document
 Text formatting
-Links
+Hyperlinks
 Images
 Ordered and unordered lists
 Tables
 HTML attributes
-Special HTML characters/entities
-Proper opening and closing tags
-7. Special HTML Characters
-
-HTML entities can be used to display reserved characters.
-
-Examples:
-
-&lt;  → <
-&gt;  → >
-&amp; → &
-
-For example:
-
-<p>&lt;b&gt; represents the bold tag.</p>
-
-The browser displays:
-
-<b> represents the bold tag.
-
-This is useful because < and > normally have special meaning in HTML.
-
-8. How to Run the Project
-Open Notepad or any code editor.
-Write the HTML code.
-Save the file with the .html extension.
-
-Example:
-
-index.html
-Open index.html in a web browser.
+HTML entities
+8. How to Run
+Save the HTML code as index.html.
+Open the file in any web browser.
 The webpage will be displayed.
-9. Expected Output
+9. Learning Outcome
 
-The webpage displays structured content containing:
-
-Headings → Paragraphs → Formatted Text → Image → Links → Lists → Table
-
-All of these are created using HTML tags and attributes.
+This project helps in understanding the fundamentals of HTML tags, attributes, webpage structure, and content organization.
 
 10. Conclusion
 
-This project provides a basic understanding of HTML tags, attributes, and webpage structure. It demonstrates how HTML can be used to create a complete webpage without using CSS or JavaScript.
+This project demonstrates how HTML5 can be used to create a structured webpage using tags and attributes without CSS or JavaScript.
+
+Project: HTML Webpage
+Technology: HTML5
+Course: BSc Computer Science
+Author: Radhika Karande
+
+
+
