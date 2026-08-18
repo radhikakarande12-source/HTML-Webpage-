@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Web Technology</title>
+</head>
+
+<body>
+
+    <h1 id="main-heading">Web Technology</h1>
+
+    <h2>Introduction to HTML</h2>
+
+    <p id="intro" title="Introduction to HTML">
+        HTML stands for
+        <strong>HyperText Markup Language</strong>.
+        It is a markup language used to create and structure
+        web pages.
+        HTML is used to create the basic structure of a web page.
+        It uses tags and elements to organize the content of a
+        webpage.
+    </p>
+
+    <h2>Elements of HTML</h2>
+
+    <p>
+        An HTML element generally consists of an opening tag,
+        content, and a closing tag.
+    </p>
+
+    <p>
+        Example:
+        <b>&lt;p&gt;Welcome to HTML&lt;/p&gt;</b>
+    </p>
+
+    <h2>Basic Structure of HTML</h2>
+
+    <p>
+        A basic HTML document contains the
+        <strong>&lt;html&gt;</strong>,
+        <strong>&lt;head&gt;</strong> and
+        <strong>&lt;body&gt;</strong> elements.
+    </p>
+
+    <h2>HTML Tags and Attributes</h2>
+
+    <p title="HTML attribute example">
+        HTML tags define the structure of webpage content.
+        Attributes provide additional information about
+        HTML elements.
+    </p>
+
+    <p>
+        Example:
+        <b>&lt;p title="Example"&gt;This is a paragraph.&lt;/p&gt;</b>
+    </p>
+
+    <p>
+        In the above example, <strong>title</strong> is an attribute
+        and <strong>"Example"</strong> is its value.
+    </p>
+
+    <h2>Basic HTML Tags</h2>
+
+    <p>
+        Basic HTML tags include
+        <strong>&lt;html&gt;</strong>,
+        <strong>&lt;head&gt;</strong>,
+        <strong>&lt;title&gt;</strong>,
+        <strong>&lt;body&gt;</strong> and
+        <strong>&lt;p&gt;</strong>.
+    </p>
+
+    <h2>HTML Headings</h2>
+
+    <p>
+        HTML provides six levels of headings from
+        <strong>&lt;h1&gt;</strong> to
+        <strong>&lt;h6&gt;</strong>.
+    </p>
+
+    <h3>This is an Example of H3 Heading</h3>
+
+    <h2>HTML Paragraphs</h2>
+
+    <p>
+        The <strong>&lt;p&gt;</strong> tag is used to create
+        paragraphs in an HTML document.
+    </p>
+
+    <p>
+        Paragraphs are used to organize text and make webpage
+        content easier to read.
+    </p>
+
+    <h2>Text Formatting Tags</h2>
+
+    <p>
+        <b>This is bold text using the &lt;b&gt; tag.</b>
+    </p>
+
+    <p>
+        <i>This is italic text using the &lt;i&gt; tag.</i>
+    </p>
+
+    <p>
+        <u>This is underlined text using the &lt;u&gt; tag.</u>
+    </p>
+
+    <p>
+        <strong>This is important text using the &lt;strong&gt; tag.</strong>
+    </p>
+
+    <p>
+        <em>This is emphasized text using the &lt;em&gt; tag.</em>
+    </p>
+
+    <p>
+        <small>This is small text using the &lt;small&gt; tag.</small>
+    </p>
+
+    <p>
+        <ins>This is inserted text using the &lt;ins&gt; tag.</ins>
+    </p>
+
+    <p>
+        <del>This is deleted text using the &lt;del&gt; tag.</del>
+    </p>
+
+    <p>
+        Chemical Formula:
+        H<sub>2</sub>O
+    </p>
+
+    <p>
+        Mathematical Expression:
+        X<sup>2</sup> + Y<sup>2</sup>
+    </p>
+
+    <ul>
+        <li><b>Advantages of HTML:</b>
+            <ul>
+                <li>Easy to learn and use</li>
+                <li>Supported by all browsers</li>
+                <li>Lightweight</li>
+                <li>Integrates well with other languages</li>
+            </ul>
+        </li>
+
+        <li><b>Disadvantages of HTML:</b>
+            <ul>
+                <li>Limited security features</li>
+                <li>Not suitable for dynamic content on its own</li>
+                <li>Requires CSS/JavaScript for complex styling and functionality</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2>Conclusion</h2>
+
+    <p id="conclusion" title="HTML Unit I Conclusion">
+        HTML is the foundation of web development. Understanding
+        HTML tags, elements, attributes, headings, paragraphs and
+        text formatting is an important first step in learning
+        Web Technology.
+    </p>
+
+</body>
+
+</html>
